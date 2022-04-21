@@ -1,0 +1,283 @@
+#EXTM3U
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://i.ibb.co/rx0hb6L/3-ABN-Latino-132x99.png" tvg-name="3ABN Latino" group-title="Religious",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://i.ibb.co/CJ2WDMK/ABC-News-Logo-132x99.jpg" tvg-name="ABC News" group-title="Local",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="" tvg-name="ABC 2 Atlanta (WSB-TV)" group-title="Local",ABC 2 Atlanta (WSB-TV)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="ABC 2 Baton Rogue LA (WBRZ+)" group-title="Local",ABC 2 Baton Rogue LA (WBRZ+)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" tvg-name="ABC 4 Seattle WA (KOMO-TV)" group-title="Local",ABC 4 Seattle WA (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="ABC 7 New York (WABC)" group-title="Local",ABC 7 New York (WABC)
+https://v-ny.mybtv.net/live/554.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="ABC 13 Las Vegas NV (KTNV)" group-title="Local",ABC 13 Las Vegas NV (KTNV)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="ABC 15 Phoenix AZ (KNXV)" group-title="Local",ABC 15 Phoenix AZ (KNXV)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="ABC 24 Memphis TN (WATN)" group-title="Local",ABC 24 Memphis TN (WATN)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" tvg-name="ACC Network" group-title="Sports",ACC Network
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/adn_40_mx.png" tvg-name="ADN 40" group-title="News",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="ATN TV" group-title="Colombia",ATN TV
+https://59ef525c24caa.streamlock.net:443/atntelevision/atntelevision/playlist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Azteca 7" group-title="México",Azteca 7
+https://v-sd.mybtv.net/live/502.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/babyfirst-us.png" tvg-name="BabyFirst" group-title="Kids",BabyFirst
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="BBC Earth | (Asia)" group-title="Entertainment",BBC Earth | (Asia)
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bloomberg-quicktake-us.png" tvg-name="Bloomberg Quicktake" group-title="Business",Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" tvg-name="Bloomberg TV (Live Event)" group-title="Business",Bloomberg TV (Live Event)
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" tvg-name="Bloomberg TV Politics (Live Event)" group-title="Politics",Bloomberg TV Politics (Live Event)
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://i.ibb.co/K5wZM0F/CBSN-140x140.jpg" tvg-name="CBSN" group-title="Local",CBSN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="CBSN Baltimore" group-title="Local",CBSN Baltimore
+http://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="CBSN Bay Area" group-title="Local",CBSN Bay Area
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="CBSN Boston" group-title="Local",CBSN Boston
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Chicago" group-title="Local",CBSN Chicago
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Colorado" group-title="Local",CBSN Colorado
+http://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Dallas" group-title="Local",CBSN Dallas
+http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Denver" group-title="Local",CBSN Denver
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Los Angeles" group-title="Local",CBSN Los Angeles
+http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Miami" group-title="Local",CBSN Miami
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=62f4&deviceDNT=0&deviceModel=0&already_redirected=true
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Minnesota" group-title="Local",CBSN Minnesota
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN New York" group-title="Local",CBSN New York
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Philly" group-title="Local",CBSN Philly
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Pittsburgh" group-title="Local",CBSN Pittsburgh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CBSN Sacramento" group-title="Local",CBSN Sacramento
+http://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="CBS Sports HQ" group-title="Sports",CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="CBS 2 New York (WCBS)" group-title="Local",CBS 2 New York (WCBS)
+https://v-ny.mybtv.net/live/545.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CCX Media" group-title="Entertainment",CCX Media
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Comedy Central" group-title="Entertainment",Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://i.ibb.co/3kp1409/2.jpg" tvg-name="Comedy Central Latino" group-title="Entertainment",Comedy Central Latino 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-4, tvg-name="Cosmovision" group-title="Colombia",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CineLife" group-title="Cinema",CineLife
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Cinemax HD | (Asia)" group-title="Entertainment",Cinemax HD | (Asia)
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/circle-us.png" tvg-name="Circle" group-title="Local",Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/circle-us.png" tvg-name="Circle HD" group-title="Local",Circle HD
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Conecta TV" group-title="Music",Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/chunklist_w1736435890.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="CONtv" group-title="Entertainment",CONtv
+https://contv-plex-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://i.ibb.co/RCV8BHN/4.jpg" tvg-name="COPS" group-title="Crime",COPS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/court-tv-us.png" tvg-name="Court TV" group-title="Crime",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel%28courttv%29/index.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Crime 360" group-title="Crime",Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Discovery Asia" group-title="Entertainment",Discovery Asia
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Discovery Channel | (Asia)" group-title="Entertainment",Discovery Channel | (Asia)
+https://vips-livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Esperanza TV" group-title="Spanish",Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Extrema TV" group-title="Cinema",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w2066641111.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Fox Sports News" group-title="Sports",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Fox Soul" group-title="Local",Fox Soul
+http://fox-foxsoul-roku.amagi.tv/playlist720P.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="FOX 5 New York (WNYW)" group-title="Local",FOX 5 New York (WNYW)
+https://v-ny.mybtv.net/live/550.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="FOx 13 Memphis TN (WHBQ)" group-title="Local",FOX 13 Memphis TN (WHBQ)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="FOX 23 Tulsa OK (KOKI-TV)" group-title="Local",FOX 23 Tulsa OK (KOKI-TV)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Fubo Sports Network" group-title="Sports",Fubo Sports Network
+https://dai2-xumo.fubo.tv/xumocdn/DVR/amagi_hls_data_xumo1212A-fubo/CDN/1280x720_6906796/chunklist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Golden Plus+" group-title="Entertainment",Golden Plus+
+http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hillsong_channel_us.png" tvg-name="Hillsong Channel" group-title="Religious",Hillsong Channel
+
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="HOT 107.1 FM - #HOTTV (Memphis TN)" group-title="Music",HOT 107.1 FM - #HOTTV (Memphis TN)
+
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hsn-us.png" tvg-name="HSN" group-title="Shopping",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hsn-2-us.png" tvg-name="HSN 2" group-title="Shopping",HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ion-plus-us.png" tvg-name="Ion Plus" group-title="Entertainment",Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="http://m.android.lyngsat-stream.com/logo/tv/jj/jewelry-tv-us.png" tvg-name="Jewelry TV" group-title="Shopping",Jewelry TV
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jewelry-tv-extra-us.png" tvg-name="Jewelry TV Extra" group-title="Shopping",Jewelry TV Extra
+https://cdn3.wowza.com/1/R3ZYNjNvdGVoaDFZ/Q3pENnlF/hls/live/playlist.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Milenio Televisión" group-title="México",Milenio Televisión
+https://v-sd.mybtv.net/live/521.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Movistar LaLiga" group-title="Sports",Movistar LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="MooviMex" group-title="Cinema",MooviMex
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/moovimex/964619e5d7/%2B0000/c.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="MTV Biggest Pop" group-title="Music",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://i.ibb.co/1X4RcM2/1.png" tvg-name="MTV Latino" group-title="Entertainment",MTV Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="MTV Spankin' New" group-title="Music",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="https://i.ibb.co/6rHGZM5/140x140.jpg" tvg-name="YO! MTV"  group-title="Music",YO! MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=378&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="NBCLX" group-title="Local",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
+#EXTINF:-4, tvg-name="NBC 4 New York (WNBC)" group-title="Local",NBC 4 New York (WNBC)
+https://v-ny.mybtv.net/live/548.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-name="Netmax TV" group-title="Greece",Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="NHK World Japan" group-title="News",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Ontario Parliamentary Network" group-title="Public",Ontario Parliamentary Network
+http://origin-http-delivery.isilive.ca:80/live/_definst_/ontla/house-en/chunklist.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Sky News" group-title="News",Sky News
+https://siloh.pluto.tv:443/lilo/production/SkyNews/master.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Southeastern Channel" group-title="Public",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Stingray Éxitos del Momento" group-title="Music",Stingray Éxitos del Momento
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/190/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Stingray HipHop And RnB" group-title="Music",Stingray HipHop And RnB
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/133/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Stingray Hot Country" group-title="Music",Stingray Hot Country
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/108/master.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="https://i.ibb.co/6b6jp7t/3.jpg" tvg-name="Telemundo Telenovelas" group-title="Novelas",Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Unicanal" group-title="Paraguay",Unicanal
+http://45.55.127.106/live/unicanal.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Univision Arizona" group-title="Latino",Univision Arizona
+https://v-px.mybtv.net/live/28.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Univision Los Angeles" group-title="Latino",Univision Los Angeles
+https://v-la.mybtv.net/live/178.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Univision New York" group-title="Latino",Univision New York
+https://v-ny.mybtv.net/live/643.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Video Rola" group-title="Music",Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="VH1 | (Italy)" group-title="Entertainment",VH1 | (Italy)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="WDEF-TV (Channel 12)" group-title="Local",WDEF-TV (Channel 12)
+http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8?NoxusPlus+.m3u8
+
+#EXTINF:-4, tvg-id="" tvg-logo="logo" tvg-name="Weather Nation" group-title="Weather",Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8?NoxusPlus+.m3u
+
+#EXTINF:-4, tvg-id=""  tvg-logo="logo" tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
+https://yahoo-samsung.amagi.tv:443/playlist1080pl.m3u8?NoxusPlus+.m3u8
