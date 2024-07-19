@@ -62,3 +62,16 @@ https://2-fss-2.streamhoster.com/pl_138/201950-2724904-1/playlist.m3u8
 
 #EXTINF:-4, Victor Valley-TV (KVVB-LD5)
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+
+#EXTINF:-4, WRCX40 (WRCX-LD1)
+https://watchwrcx.com:8080/401/video.m3u8
+
+#EXTINF:-4, All Sports Television Network (WRCX-LD2)
+https://watchwrcx.com:8080/402/video.m3u8
+
+#EXTINF:-4, WRCX THE365 40.3 (WRCX-LD3)
+https://watchwrcx.com:8081/403/video.m3u8
+
+#EXTINF:-4, WRCX Video Mix TV 40.4 (WRCX-LD4)
+https://watchwrcx.com:8081/404/video.m3u8
+
