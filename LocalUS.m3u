@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-4, Outlaw Cincinnati OH (WBQC-DT3)
+https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8
+
+#EXTINF:-4, Telemundo 3 Yuma AZ (KESE-LD)
+https://content.uplynk.com/channel/d8ebf84aa99d430980a7995d658ece0a.m3u8
+
+#EXTINF:-4, Canal 24 SIZART (XHZHZ-TDT)
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-4, Canal 33 Tijuana (XHAS-TDT)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-4, WPSTX TV (KODF-LD3)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+
+#EXTINF:-4, ivtv Channel 57.16
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+
+#EXTINF:-4, Texas Family TV (KLNM-LD1)
+https://59d39900ebfb8.streamlock.net/texasfamilytv/texasfamilytv/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.2 NewsNet
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.3 RetroTV
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.4 WX Channel - Weather Channel (Delmarva)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-4, W14DK-D 14.7 Heartland Channel
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8
+
+#EXTINF:-4, Vision Musical TV35.4
+https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
+
+#EXTINF:-4, Nudu (KBPX-LD3)
+https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+
+#EXTINF:-4, Smart Money Culture (KQVT-LD4)
+https://2-fss-1.streamhoster.com/pl_154/206904-4436778-1/playlist.m3u8
+
+#EXTINF:-4, KVVB.TV33 (KVVB-LD1)
+https://2-fss-2.streamhoster.com/pl_138/201950-1309230-1/playlist.m3u8
+
+#EXTINF:-4, MarketPlace (KVVB-LD2)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201794-1397050/playlist.m3u8
+
+#EXTINF:-4, NewsNet (KVVB-LD3)
+https://2-fss-2.streamhoster.com:443/pl_138/201950-1311088-1/chunklist.m3u8
+
+#EXTINF:-4, Heartland Channel (KVVB-LD4)
+https://2-fss-2.streamhoster.com/pl_138/201950-2724904-1/playlist.m3u8
+
+#EXTINF:-4, Victor Valley-TV (KVVB-LD5)
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
