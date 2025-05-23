@@ -75,8 +75,11 @@ https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m
 #EXTINF:-4, Radio y Televisión Querétaro RTQ (XHSECE-TDT)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 
-#EXTINF:-4, SICOM Televisión (XHPBZC-TDT)
-https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-4, SICOM Televisión 16.1 (XHPBZC-TDT)
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+
+#EXTINF:-4, SICOM Televisión 16.2
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 
 #EXTINF:-4, Sistema Michoacano de Radio y Televisión SMRTV
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
