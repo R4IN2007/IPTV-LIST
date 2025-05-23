@@ -109,7 +109,7 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
 
 #EXTINF:-4, TV BUAP 18.1 (XHBUAP-TDT)
-https://tvenvivo.buap.mx/livestream/stream.m3u8
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
 
 #EXTINF:-4, TV Lobo (XHUAD-TDT)
 https://5ca9af4645e15.streamlock.net:443/lobodurango/videolobodurango/playlist.m3u8
@@ -136,7 +136,7 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m
 https://5fe2654d6127d.streamlock.net/ujat/videoujat/playlist.m3u8
 
 #EXTINF:-4, TV UNAM
-https://mexside-stream.b-cdn.net/tvunam/tvunam/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-4, TV UNAM
 https://5f1af61612fb5.streamlock.net/tvunam/videotvunam/playlist.m3u8
@@ -147,7 +147,7 @@ https://5fc584f3f19c9.streamlock.net/canal50/videocanal50/playlist.m3u8
 #EXTINF:-4, WPSTX TV (KODF-LD3)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 
-#EXTINF:-4, ivtv Channel 57.16
+#EXTINF:-4, IVTV Channel 57.16
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 
 #EXTINF:-4, Texas Family TV (KLNM-LD1)
