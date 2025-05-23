@@ -183,20 +183,14 @@ https://2-fss-1.streamhoster.com/pl_154/206904-4436778-1/playlist.m3u8
 #EXTINF:-4, Cowboy Christian Network
 https://televiva.net:19360/ccnlive/ccnlive.m3u8
 
-#EXTINF:-4, KVVB.TV33 (KVVB-LD1)
+#EXTINF:-4, YouToo America - YTA KVVB.TV33 (KVVB-LD1)
 https://2-fss-2.streamhoster.com/pl_138/201950-1309230-1/playlist.m3u8
 
-#EXTINF:-4, MarketPlace (KVVB-LD2)
-https://2-fss-1.streamhoster.com/pl_122/amlst:201794-1397050/playlist.m3u8
-
-#EXTINF:-4, NewsNet (KVVB-LD3)
+#EXTINF:-4, Live Now from Fox (KVVB-LD3)
 https://2-fss-2.streamhoster.com:443/pl_138/201950-1311088-1/chunklist.m3u8
 
 #EXTINF:-4, Heartland Channel (KVVB-LD4)
 https://2-fss-2.streamhoster.com/pl_138/201950-2724904-1/playlist.m3u8
-
-#EXTINF:-4, Victor Valley-TV (KVVB-LD5)
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
 #EXTINF:-4, WRCX40 (WRCX-LD1)
 https://watchwrcx.com:8080/401/video.m3u8
