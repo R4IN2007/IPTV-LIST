@@ -1,0 +1,101 @@
+#EXTM3U billed-msg="SOUTH KOREAN LIST MADE BY R4IN!" max-conn="1" refresh="23" x-tvg-url="https://m3ukodi.com/root/otts/epg/epg-guide.php" list-name="SOUTH KOREA IPTV" list-image="https://i.imgur.com/DNh8m7a.png"
+#EXTINF:-0, ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-0, Arirang TV
+https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+#EXTINF:-0, Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-0, Arirang World
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-0, BBS TV
+https://bbslive.clouducs.com/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-0, BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-0, CBS TV
+https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
+#EXTINF:-0, CGN South Korea
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-0, Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+#EXTINF:-0, CJ온스타일
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-0, CJ온스타일+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-0, CTS TV
+https://video.cdn.cts.tv/index.m3u8
+#EXTINF:-0, EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-0, EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-0, EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-0, EBS 키즈
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-0, EBS 플러스 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-0, EBS 플러스 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-0, FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-0, GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_800k.stream/playlist.m3u8
+#EXTINF:-0, Gongyoung Home Shopping - 공영홈쇼핑
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-0, Good TV
+https://mobilestream.goodtv.co.kr/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-0, GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8
+#EXTINF:-0, GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-0, Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-0, HLAJ-DTV [NOT 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-0, HLAM-DTV
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-0, HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-0, HLAO-DTV
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-0, HLAQ-DTV [NOT 24/7]
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-0, HLAT-DTV
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-0, HLCG-DTV
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-0, HLCN-DTV (Geo-Blocked) [NOT 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-0, HLCQ-DTV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-0, HLCT-DTV
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-0, HLCX-DTV [NOT 24/7]
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-0, HLDE-DTV (Geo-Blocked) [NOT 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-0, HLDF-DTV
+http://123.214.216.80:1935/live/tv/playlist.m3u8
+#EXTINF:-0, HLDG-DTV
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-0, HLDH-DTV
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-0, HLDP-DTV
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+#EXTINF:-0, HLDQ-DTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-0, HLDR-DTV
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-0, HLKJ-DTV
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-0, HLKU-DTV
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-0, HLQS-DTV [NOT 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-0, Home & Shopping - 홈&쇼핑
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-0, Hyundai Home Shopping - 현대홈쇼핑
+https://cdnlive.hmall.com/live/hmall.stream/playlist.m3u8
+#EXTINF:-0, Hyundai Home Shopping + Shop - 현대홈쇼핑+샵
+https://dtvstreaming.hyundaihmall.com/newcjp3/cjpstream_1M/playlist.m3u8
+#EXTINF:-0, KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
