@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="SOUTH KOREAN LIST MADE BY R4IN!" max-conn="1" refresh="23" x-tvg-url="https://m3ukodi.com/root/otts/epg/epg-guide.php" list-name="SOUTH KOREA IPTV" list-image="https://i.imgur.com/DNh8m7a.png"
+#EXTM3U billed-msg="SOUTH KOREAN LIST MADE BY R4IN!" max-conn="1" list-name="SOUTH KOREA IPTV"
 #EXTINF:-0, ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-0, Arirang TV
