@@ -1,44 +1,33 @@
 <?php
-// URL to scan
-$url = isset($_GET['url']) ? $_GET['url'] : '';
+// URL of the website to scrape
+$url = "https://cordoba.mitelefe.com/vivo/";
 
-if (!$url) {
-    echo "Please provide a URL using ?url=...";
+// Initialize cURL
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+
+// Set a user-agent to mimic a real browser
+curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/115.0.0.0 Safari/537.36');
+
+$html = curl_exec($ch);
+
+if(curl_errno($ch)) {
+    echo "cURL error: " . curl_error($ch);
     exit;
 }
 
-// Validate URL
-if (!filter_var($url, FILTER_VALIDATE_URL)) {
-    echo "Invalid URL.";
-    exit;
-}
+curl_close($ch);
 
-// Fetch content
-$contextOptions = [
-    "http" => [
-        "header" => "User-Agent: Mozilla/5.0"
-    ]
-];
-$context = stream_context_create($contextOptions);
-$html = @file_get_contents($url, false, $context);
+// Try to extract .m3u8 links
+preg_match_all('/(https?:\/\/[^"\']+\.m3u8[^"\']*)/', $html, $matches);
 
-if ($html === false) {
-    echo "Failed to fetch content.";
-    exit;
-}
-
-// Find .m3u8 links
-preg_match_all('/(https?:\/\/[^\'"\s]+\.m3u8)/i', $html, $matches);
-
-if (empty($matches[0])) {
-    echo "No HLS (.m3u8) streams found.";
-    exit;
-}
-
-// Show results as clickable links
-echo "<h3>Found .m3u8 Streams:</h3>";
-foreach ($matches[0] as $m3u8) {
-    echo "<p><a href=\"" . htmlspecialchars($m3u8) . "\">" . htmlspecialchars($m3u8) . "</a> ";
-    echo "[ <a href=\"vlc://$m3u8\">Open in VLC</a> ]</p>";
+if (!empty($matches[1])) {
+    echo "Found the following .m3u8 links:\n";
+    foreach ($matches[1] as $m3u8) {
+        echo $m3u8 . "\n";
+    }
+} else {
+    echo "No .m3u8 stream found. The stream may be loaded via JavaScript or protected.\n";
 }
 ?>
